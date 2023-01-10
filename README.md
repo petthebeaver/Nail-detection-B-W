@@ -14,5 +14,5 @@ Algorithm was specifically made for my project for using Spatial Frequency Domai
 ## Metrics with different batch sizes
 
 <p align="center">
-  <img src="https://github.com/petthebeaver/Nail-detection-B-W/blob/77f07b30955d909490294989c4506e0bfed5eff1/metrics.png" />
+  <img src="https://github.com/petthebeaver/Nail-detection-B-W/blob/6337d5c19ebbb0f6105d1b8e404b5eca8a608d09/metrics.png" />
 </p>
